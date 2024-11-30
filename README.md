@@ -7,7 +7,7 @@
 <h3><u><i>my 1st qtr portfolio!</u> </i></h3> </a>
 <h1> welcome (˶˃ ᵕ ˂˶) .ᐟ.ᐟ</h1>
 <h2> second quarter portfolio! </h2> <br>
-<a href="intro.html">
+<a href="https://ccsarra.github.io/introo/">
 <p><u> my introduction!</p></a>
 <a href="pics.html">
 <p><u> 2nd qtr activities! </p></a>
